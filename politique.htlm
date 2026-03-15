@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Politique de Confidentialité - Bazatro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 { color: #111; }
+    a { color: #0a66c2; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .muted { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Politique de Confidentialité</h1>
+  <p class="muted">Dernière mise à jour : mars 2026</p>
+
+  <p>
+    Bazatro (« nous », « notre » ou « nos ») respecte votre vie privée. La présente Politique de Confidentialité explique comment les informations sont traitées lorsque vous utilisez l’application mobile Bazatro.
+  </p>
+
+  <h2>1. Informations que Nous Collectons</h2>
+  <p>
+    Bazatro est conçu pour aider les utilisateurs à gérer leurs budgets et leurs informations financières personnelles. Les informations saisies dans l’application peuvent inclure, par exemple :
+  </p>
+  <ul>
+    <li>noms et catégories de budgets</li>
+    <li>revenus et dépenses</li>
+    <li>profils créés par l’utilisateur</li>
+    <li>données d’exportation générées par l’utilisateur</li>
+  </ul>
+
+  <h2>2. Stockage de Vos Données</h2>
+  <p>
+    Les données financières et liées à l’application sont principalement stockées localement sur votre appareil, sauf si vous choisissez de les exporter. Nous ne vendons pas vos informations personnelles.
+  </p>
+
+  <h2>3. Exports</h2>
+  <p>
+    Bazatro peut vous permettre d’exporter des données sous forme de fichiers PDF, Excel ou images. Tout fichier exporté est créé à votre demande. Une fois exporté, vous êtes responsable de la manière dont ce fichier est stocké, partagé ou protégé sur votre appareil ou via des services tiers.
+  </p>
+
+  <h2>4. Fonctionnalités Vocales</h2>
+  <p>
+    Si des fonctionnalités vocales sont disponibles dans l’application, les informations traitées par ces fonctionnalités sont utilisées uniquement pour fournir le service demandé. Selon votre appareil, le traitement vocal peut impliquer Apple ou d’autres services de la plateforme.
+  </p>
+
+  <h2>5. Abonnements et Paiements</h2>
+  <p>
+    Bazatro peut proposer des abonnements auto-renouvelables permettant de débloquer des fonctionnalités premium. Les paiements et la gestion des abonnements sont effectués par Apple via l’App Store. Nous ne recevons ni ne stockons vos informations complètes de carte de paiement.
+  </p>
+
+  <h2>6. Analyses et Diagnostics</h2>
+  <p>
+    Nous pouvons utiliser des informations techniques limitées, des rapports de crash ou des données de diagnostic afin d’améliorer la stabilité, la performance et l’expérience utilisateur de l’application.
+  </p>
+
+  <h2>7. Partage de Données</h2>
+  <p>
+    Nous ne vendons pas d’informations personnelles. Nous pouvons faire appel à des prestataires ou outils de plateforme nécessaires au fonctionnement des fonctionnalités, au traitement des abonnements ou à l’amélioration de l’application.
+  </p>
+
+  <h2>8. Conservation des Données</h2>
+  <p>
+    Les données stockées localement sur votre appareil y restent jusqu’à ce que vous les supprimiez, désinstalliez l’application ou exportiez et gériez vous-même ces données. Les documents exportés restent sous votre contrôle.
+  </p>
+
+  <h2>9. Confidentialité des Enfants</h2>
+  <p>
+    Bazatro n’est pas destiné aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d’informations personnelles auprès d’enfants de moins de 13 ans.
+  </p>
+
+  <h2>10. Vos Choix</h2>
+  <p>
+    Vous pouvez arrêter d’utiliser l’application à tout moment, la supprimer ou gérer votre abonnement dans les réglages de votre identifiant Apple.
+  </p>
+
+  <h2>11. Modifications de Cette Politique</h2>
+  <p>
+    Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre. Toute mise à jour sera publiée sur cette page avec une nouvelle date de mise à jour.
+  </p>
+
+  <h2>12. Contact</h2>
+  <p>
+    Pour toute question concernant cette Politique de Confidentialité, contactez-nous à :
+    <a href="mailto:julien_carmel@hotmail.com">julien_carmel@hotmail.com</a>
+  </p>
+</body>
+</html>
